@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">AboutRon</string>
+    <string name="bio" translatable="false">Iam Ron.An aspiring software engineer with a keen interest in the intersection of Android and Blockchain Technologies to power the next gen mobile wallets.
+    A financial inclusion evangelist for all seasons.</string>
+</resources>
